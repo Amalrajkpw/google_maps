@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 
 void main(){
-  runApp(MapsApp());
+  runApp(const MapsApp());
  }
  class MapsApp extends StatelessWidget {
    const MapsApp({super.key});
